@@ -1,0 +1,7 @@
+@Transform
+:Position(0.0, 0.0, 0.0)
+:Rotation(0.0, 0.0, 0.0)
+@BoxCollider
+:Scale(2.0)
+@ModelRenderer
+:Model("Miku")
