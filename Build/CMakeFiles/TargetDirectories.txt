@@ -1,3 +1,0 @@
-/home/saito/デスクトップ/LinuxGame/Move1.0/Build/CMakeFiles/rebuild_cache.dir
-/home/saito/デスクトップ/LinuxGame/Move1.0/Build/CMakeFiles/edit_cache.dir
-/home/saito/デスクトップ/LinuxGame/Move1.0/Build/CMakeFiles/Main.dir
